@@ -3,4 +3,5 @@ This repository contains the code used to produce the results from our paper "Pr
 
 
 # Presentation video
-![](tmlr_presentation.mp4)
+https://user-images.githubusercontent.com/25415594/196889720-2942a256-234d-4435-bd26-9d9fc2a075fa.mp4
+
